@@ -1,3 +1,5 @@
+package com.example.evaluationkotlin.ui.screens.mainscreen
+
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.evaluationkotlin.data.repositories.WeatherRepository
