@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EvaluationKotlin</string>
+    <string name="maintitle">Main menu</string>
+    <string name="maindescription">Weathers list</string>
+    <string name="detailstitle">Details</string>
+    <string name="backbutton">Back</string>
+    <string name="detailsdescription">Weather details</string>
+    <string name="detailsdescriptiondate">Date</string>
+    <string name="detailsdescriptionstart">Start</string>
+    <string name="detailsdescriptionend">End</string>
+    <string name="detailsdescriptionweathertype">Weather type</string>
+</resources>

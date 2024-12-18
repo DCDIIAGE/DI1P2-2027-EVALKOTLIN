@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- raw -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightwhite">#AAA</color>
+    <color name="black">#000000</color>
+    <color name="grey">#888888</color>
+    <color name="yellow">#FFC000</color>
+    <color name="blue">#0000ff</color>
+    <!-- Buisness -->
+    <!-- Palette -->
+    <color name="screenbackground">@color/lightwhite</color>
+    <color name="infoboxbackground">@color/white</color>
+    <color name="titlebackground">@color/grey</color>
+    <color name="titletextcolor">@color/white</color>
+    <color name="infoboxtextcolor">@color/black</color>
+    <color name="infoboxarrowcolor">@color/grey</color>
+    <color name="backtomainscreenbuttonbackground">@color/blue</color>
+    <color name="descriptioncolor">@color/blue</color>
+    <color name="backtomainscreenbuttontextcolor">@color/white</color>
+
+</resources>
