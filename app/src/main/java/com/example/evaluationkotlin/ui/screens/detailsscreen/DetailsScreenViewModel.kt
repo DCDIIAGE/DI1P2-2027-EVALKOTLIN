@@ -18,7 +18,6 @@ class DetailsScreenViewModel(private val weatherRepository: WeatherRepository = 
                 val weather = weatherRepository.getWeatherById(id)
                 _state.value = DetailsScreenState(weather = weather)
             } catch (e: Exception) {
-                // Gérer l'erreur ici, par exemple en mettant à jour l'état avec un message d'erreur
                 _state.value = DetailsScreenState(error = "Erreur lors du chargement des données météo")
             }
         }

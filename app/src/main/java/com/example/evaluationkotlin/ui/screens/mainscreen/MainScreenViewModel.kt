@@ -31,7 +31,7 @@ class MainViewModel(private val weatherRepository: WeatherRepository = WeatherRe
                 val weatherList = weatherRepository.getWeathers()
                 _state.value = MainScreenState(weatherList = weatherList)
             } catch (e: Exception) {
-                // Gérer l'erreur ici, par exemple en mettant à jour l'état avec un message d'erreur
+
             }
         }
     }
