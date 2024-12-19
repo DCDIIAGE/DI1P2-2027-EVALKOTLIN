@@ -1,6 +1,5 @@
 package com.example.evaluationkotlin.ui.screens.detailsscreen
 
-import DetailsScreenViewModel
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.Button

@@ -1,6 +1,5 @@
 package com.example.evaluationkotlin.ui.screens.mainscreen
 
-import MainViewModel
 import android.content.Context
 import android.media.MediaPlayer
 import android.os.Build
